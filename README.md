@@ -1,8 +1,6 @@
 #  **Report Writing**
 
 A website by Roohith
-![Uploading image.png…]()
-
 
 # The Structure : 
 
@@ -48,5 +46,10 @@ Chennai , August 19 :
   The event began with the hymn , the head boy and girl's speech ,followed by the principal's speech.
   Then there were lots of inclusive drama and music.
   The event which made the whole stadium go out of joy was the ghost dance.
-  Because it was hilarious and 
+  Because it was hilarious and amazing.	
+		The staff gave the participants some juice,cakes,chips,salads and cola.
+		That was also amazing.
+
+		The event concluded with the Shnthi Amaithi song.
+		Then the participants made a parade , walking around the stadium saying " goodbyes " to everyone.
   
