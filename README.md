@@ -52,4 +52,6 @@ Chennai , August 19 :
 
 		The event concluded with the Shnthi Amaithi song.
 		Then the participants made a parade , walking around the stadium saying " goodbyes " to everyone.
+
+  To see the program, visit :  <https://youtube.com/live/BfP4Ykjr_W4?feature=share>
   
